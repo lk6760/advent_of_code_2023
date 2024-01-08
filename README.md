@@ -1,3 +1,3 @@
-# advent_of_code_2023
+# advent_of_code
 
-solutions from `https://adventofcode.com/2023`
+solutions for `https://adventofcode.com`
